@@ -1,5 +1,5 @@
 import { ToastProvider } from "./components/Toast/ToastProvider";
-import ToastDemo from "./demos/ToastDemo";
+import { ToastDemo } from "./demos/ToastDemo";
 
 function App() {
   return (
