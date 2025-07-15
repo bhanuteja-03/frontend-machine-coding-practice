@@ -36,10 +36,11 @@ src/
 
 ## ✅ Completed Machine Coding Challenges
 
-| #   | Name                  | Folder             | Features                         |
-| --- | --------------------- | ------------------ | -------------------------------- |
-| 1   | 🔔 Toast Notification | `components/Toast` | Context + animation + responsive |
-| 2   | ⏳ Coming Soon...     | `components/...`   | More to come                     |
+| #   | Name                  | Folder                   | Features                         |
+| --- | --------------------- | ------------------------ | -------------------------------- |
+| 1   | 🔔 Toast Notification | `components/Toast`       | Context + animation + responsive |
+| 2   | 🔔 Progress Bar       | `components/ProgressBar` | Context + animation + responsive |
+| 3   | ⏳ Coming Soon...     | `components/...`         | More to come                     |
 
 ---
 
