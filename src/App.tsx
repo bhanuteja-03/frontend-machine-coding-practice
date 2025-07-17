@@ -1,11 +1,11 @@
 import { ToastProvider } from "./components/Toast/ToastProvider";
-import { ProgressBarDemo } from "./demos/ProgressBarDemo";
+import { TransferListDemo } from "./demos/TransferListDemo";
 
 function App() {
   return (
     <ToastProvider position="top-right">
       <div className="p-4">
-        <ProgressBarDemo />
+        <TransferListDemo />
       </div>
     </ToastProvider>
   );
